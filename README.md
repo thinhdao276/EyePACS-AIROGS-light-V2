@@ -1,0 +1,1 @@
+This is kaggle dataset: https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2
